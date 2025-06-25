@@ -5,18 +5,23 @@ In this case study, I analyzed fitness and sleep data from 30+ smart device user
 🔍 Key Findings & Strategic Recommendations:
 
 ✅ Sedentary Lifestyles (17+ hours/day)
+
 🔁 Recommendation: Implement in-app movement reminders and “Daily Move Streak” challenges to break long sedentary periods.
 
 ✅ Low Activity (Avg. 7,400 steps/day)
+
 🔁 Recommendation: Launch step-based gamification, personalized step goals, and motivational nudges to help users reach 10,000 steps/day.
 
 ✅ Sleep Efficiency Patterns (Avg. ~7 hrs/night)
+
 🔁 Recommendation: Offer sleep quality tracking, restfulness scores, and bedtime coaching with mindfulness tools and breathing exercises.
 
 ✅ High Activity + Poor Sleep in Some Users
+
 🔁 Recommendation: Target shift workers/athletes with recovery-focused content, hydration reminders, and stress recovery tracking.
 
 ✅ Inconsistent Sleep-Activity Behavior
+
 🔁 Recommendation: Classify user profiles with pattern recognition and deliver behavior-based guidance to improve consistency.
 
 🎯 Impact:
